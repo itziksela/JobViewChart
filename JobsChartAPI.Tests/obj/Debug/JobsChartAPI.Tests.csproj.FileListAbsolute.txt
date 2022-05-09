@@ -1,0 +1,95 @@
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.Tests.dll.config
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.Tests.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.Tests.pdb
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Http.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Razor.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\EntityFramework.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\WebGrease.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.pdb
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.dll.config
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Http.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Razor.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\EntityFramework.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\obj\Debug\JobsChartAPI.Tests.csproj.AssemblyReference.cache
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\obj\Debug\JobsChartAPI.Tests.csproj.CoreCompileInputs.cache
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\obj\Debug\JobsChartAPI.Tests.csproj.CopyComplete
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\obj\Debug\JobsChartAPI.Tests.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI.Tests\obj\Debug\JobsChartAPI.Tests.pdb
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.Tests.dll.config
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.Tests.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.Tests.pdb
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\WebGrease.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.pdb
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\JobsChartAPI.dll.config
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\obj\Debug\JobsChartAPI.Tests.csprojAssemblyReference.cache
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\obj\Debug\JobsChartAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\obj\Debug\JobsChartAPI.Tests.csproj.CopyComplete
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\obj\Debug\JobsChartAPI.Tests.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI.Tests\obj\Debug\JobsChartAPI.Tests.pdb

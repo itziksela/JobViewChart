@@ -1,0 +1,186 @@
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\JobsChartAPI.dll.config
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\JobsChartAPI.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\JobsChartAPI.pdb
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\csc.exe
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\csc.exe.config
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\csc.rsp
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\csi.exe
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\csi.exe.config
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\csi.rsp
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.AppContext.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Console.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.IO.Compression.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Net.Http.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Net.Sockets.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.ValueTuple.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\vbc.exe
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\vbc.exe.config
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\vbc.rsp
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\VBCSCompiler.exe
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\Antlr3.Runtime.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\EntityFramework.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\EntityFramework.SqlServer.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\Newtonsoft.Json.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Net.Http.Formatting.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Helpers.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Http.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Http.WebHost.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Mvc.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Optimization.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Razor.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.WebPages.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.WebPages.Razor.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\WebGrease.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\EntityFramework.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\EntityFramework.SqlServer.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\Newtonsoft.Json.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Net.Http.Formatting.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Helpers.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Http.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Http.WebHost.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Mvc.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Optimization.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Razor.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.WebPages.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.WebPages.Razor.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\Antlr3.Runtime.pdb
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.csproj.CoreCompileInputs.cache
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.csproj.CopyComplete
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.pdb
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.Migrations.InitialCreate.resources
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.csproj.GenerateResource.cache
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.csproj.AssemblyReference.cache
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Cors.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Http.Cors.dll
+D:\Users\itzik\Documents\My Web Sites\JobsChart\JobsChartAPI\bin\System.Web.Http.Cors.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\JobsChartAPI.dll.config
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\JobsChartAPI.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\JobsChartAPI.pdb
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\csc.exe
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\csc.rsp
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\csi.exe
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\csi.exe.config
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\csi.rsp
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Console.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\vbc.exe
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\EntityFramework.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Cors.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Http.Cors.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Http.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Razor.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\WebGrease.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\EntityFramework.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Http.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Http.Cors.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.Razor.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\JobsChart\JobsChartAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.csproj.CopyComplete
+C:\Users\User\Documents\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.dll
+C:\Users\User\Documents\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.pdb
+C:\Users\User\Documents\JobsChart\JobsChartAPI\obj\Debug\JobsChartAPI.csprojAssemblyReference.cache

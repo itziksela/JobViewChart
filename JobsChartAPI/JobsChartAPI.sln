@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobsChartAPI", "JobsChartAPI.csproj", "{A711F632-9DDD-45D3-B389-5E05337C6678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobsChartAPI.Tests", "..\JobsChartAPI.Tests\JobsChartAPI.Tests.csproj", "{E18C2428-18B2-47B8-A6DA-EB19E3A1A5D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A711F632-9DDD-45D3-B389-5E05337C6678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A711F632-9DDD-45D3-B389-5E05337C6678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A711F632-9DDD-45D3-B389-5E05337C6678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A711F632-9DDD-45D3-B389-5E05337C6678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E18C2428-18B2-47B8-A6DA-EB19E3A1A5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18C2428-18B2-47B8-A6DA-EB19E3A1A5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18C2428-18B2-47B8-A6DA-EB19E3A1A5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18C2428-18B2-47B8-A6DA-EB19E3A1A5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FDF1D67-1A7C-478C-BB2A-EEF563C31691}
+	EndGlobalSection
+EndGlobal

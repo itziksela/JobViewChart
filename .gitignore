@@ -1,0 +1,4 @@
+# exclude everything except directory foo/bar
+/client/node_modules/*
+/JobsChartAPI\obj
+JobsChartAPI\bin/*
