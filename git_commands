@@ -1,0 +1,5 @@
+git remote add origin https://github.com/itziksela/JobViewChart.git
+git remote -v
+git add .
+git commit -m "db"
+git push origin main
